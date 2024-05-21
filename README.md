@@ -13,3 +13,8 @@ Este repositório contém o código-fonte de uma calculadora simples desenvolvid
 - **HTML5**: Estruturação da calculadora e dos elementos de interface.
 - **CSS3**: Estilização da calculadora, proporcionando um visual limpo e responsivo.
 - **JavaScript**: Lógica de funcionamento da calculadora, manipulação do DOM e tratamento de eventos de clique.
+
+## Acessar Calculadora
+
+- **GitHub Pages**: Uma forma de hospedar seus pequenas projetos de forma rápida e simples.
+- **Link**: https://devg-lustosa.github.io/Calculator.js/
